@@ -2,7 +2,9 @@
 
 CLP profile 1.25u keycaps for Redox
 
-img: ![CLP profile 1.25u keycaps for Redox](./img/pic1.png)
+![CLP profile 1.25u keycaps for Redox](./img/pic1.png)
+![CLP profile 1.25u keycaps for Redox](./img/pic2.png)
+![CLP profile 1.25u keycaps for Redox](./img/pic3.png)
 
 These are 1.25u version of fabulous [CLP Keycaps](https://github.com/vvhg1/clp-keycaps).
 For those who drive Redox and its varieties.
